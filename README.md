@@ -37,7 +37,7 @@ Gelateria is a web application designed to showcase the best flavors of gelato, 
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/winsy901/Gelato.git
-    cd Gelato
+    cd Ice-Cream
     ```
 
 2. **Install dependencies**:
