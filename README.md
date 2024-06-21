@@ -73,3 +73,5 @@ Acknowledgements
 	•	React
 	•	Framer Motion
 	•	Material-UI
+
+![alt text](image.png)
