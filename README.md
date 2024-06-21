@@ -42,39 +42,6 @@ npm start
 
 The application will be available at http://localhost:3000.
 
-
-Project Structure:
-.
-├── public
-│   ├── index.html
-│   ├── gelato1.png
-│   ├── chef.png
-│   ├── app-store-badge.png
-│   ├── google-play-badge.png
-│   ├── app-phone-mockup.png
-│   ├── strawberry.png
-│   ├── banana.png
-│   ├── AdobeStock_53879919-Photoroom-2.png
-│   ├── location.png
-│   ├── facebook-icon.png
-│   ├── twitter-icon.png
-│   └── instagram-icon.png
-├── src
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── components
-│       ├── Header.js
-│       ├── Hero.js
-│       ├── MostPopular.js
-│       ├── TopFlavours.js
-│       ├── OurStory.js
-│       ├── LatestPost.js
-│       ├── VisitUs.js
-│       └── DownloadApp.js
-├── package.json
-└── README.md
-
 Customization
 
 Adding New Flavors
